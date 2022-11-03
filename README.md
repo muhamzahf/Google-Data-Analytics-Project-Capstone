@@ -1,11 +1,11 @@
-# Google-Data-Analytics-Project-Capstone
+BellaBeat-casestudy
+Bellabeat, a high-tech company that manufactures health-focused smart products(FitBit).Develop beautifully designed technology that informs and inspires women around the world. Collecting data on activity, sleep, stress, and reproductive health has allowed Bellabeat to empower women with knowledge about their own health and habits.Manager wants to focus on a Bellabeat product and analyze smart device usage data in order to gain insight into how people are already using their smart devices.Then, using information, Manager would have high level recommendations, for how these trends can inform Bellabeat marketing strategy.
 
-![Badge Google Data Analyst](https://user-images.githubusercontent.com/70090797/193436661-8c079812-9e7e-48f3-9246-590b6be34fee.jpg)
+I Used R programming to solve case study.
 
-About this Professional Certificate
+Insights
+Trends identified for Bellabeat(FitBit) users shows positive trends when user make more steps more calories burned makes more active and negative trend for sedentary(not active).
 
-Get ready for a new career in the fast growing field of data analytics, no experience or degree is required here. Get professional training by Google and take advantage of opportunities to connect with top companies.
+More people log their calories and steps taken.
 
-Data analytics is the process of collecting, transforming, and structuring data to draw conclusions, make predictions, and provide information in making the right decisions
-
-Through these 8 courses, you can gain much-needed skills and prepare yourself to work as an entry-level data analyst.
+Fewer uses log sleep data and only a few are logging their weight.
