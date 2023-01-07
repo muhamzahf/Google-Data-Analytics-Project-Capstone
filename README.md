@@ -1,3 +1,7 @@
+Bellabeat Case Study
+
+![image](https://user-images.githubusercontent.com/70090797/211140070-d01fd278-6fd0-49c0-a96b-169b70e7b7ca.png)
+
 BellaBeat-casestudy
 Bellabeat, a high-tech company that manufactures health-focused smart products(FitBit).Develop beautifully designed technology that informs and inspires women around the world. Collecting data on activity, sleep, stress, and reproductive health has allowed Bellabeat to empower women with knowledge about their own health and habits.Manager wants to focus on a Bellabeat product and analyze smart device usage data in order to gain insight into how people are already using their smart devices.Then, using information, Manager would have high level recommendations, for how these trends can inform Bellabeat marketing strategy.
 
